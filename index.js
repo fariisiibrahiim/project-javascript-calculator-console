@@ -1,4 +1,3 @@
-
 let iteration = 0;
 while (iteration < 100) {
   console.log("iteration" + iteration);
@@ -18,3 +17,4 @@ let input_number
 let input_multiplier = 
 while (input_multiplier)
 console.log(input_number*)
+*/
